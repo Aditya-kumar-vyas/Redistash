@@ -28,7 +28,7 @@ const page = async () => {
               The<span className='bg-red-500 px-2 font-bold text-white'>ULTIMATE</span>chat app
           </p>
           <p className='text-2xl md :text-3xl mb-32 text-balance z-10'>
-                  YOU <span className='bg-green-500/90 font-bold px-2 text-white'>NEED TO</span>build
+                  WITH <span className='bg-green-500/90 font-bold px-2 text-white'>ULTIMIATE</span>speed
           </p>
           <AuthButtons></AuthButtons>
 
